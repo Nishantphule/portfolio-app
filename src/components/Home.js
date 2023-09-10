@@ -8,7 +8,6 @@ export default function Home() {
     return (
         <Container
             sx={{
-                height: "100vh",
                 bgcolor: 'primary',
                 pt: "150px",
             }}

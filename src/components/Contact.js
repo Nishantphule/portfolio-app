@@ -70,7 +70,7 @@ export default function Contact() {
                                             </div>
 
                                         </div>
-                                        <input type="hidden" name="_next" value="http://localhost:3000/" />
+                                        <input type="hidden" name="_next" value="https://nishantphule-portfolio.netlify.app/" />
                                     </div>
                                     <div class="text-center text-md-left">
                                         <button class="btn btn-primary" type="submit">Send</button>
