@@ -9,7 +9,7 @@ export default function Home() {
         <Container
             sx={{
                 bgcolor: 'primary',
-                pt: "150px",
+                pt: "50px",
             }}
             maxWidth='lg'
         >
